@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: New Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 71eedda0f74e6be41b63a595b27c8d7d, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 5226151720080585703, guid: 71eedda0f74e6be41b63a595b27c8d7d, type: 3}
+  - {fileID: -2604187874447950368, guid: 71eedda0f74e6be41b63a595b27c8d7d, type: 3}
+  - {fileID: 5585018319035453273, guid: 71eedda0f74e6be41b63a595b27c8d7d, type: 3}
+  - {fileID: -2145165060144811169, guid: 71eedda0f74e6be41b63a595b27c8d7d, type: 3}
+  - {fileID: -5655359754110409232, guid: 71eedda0f74e6be41b63a595b27c8d7d, type: 3}
+  - {fileID: 1453188043547988083, guid: 71eedda0f74e6be41b63a595b27c8d7d, type: 3}
+  - {fileID: 3732053059899931465, guid: 71eedda0f74e6be41b63a595b27c8d7d, type: 3}
+  - {fileID: 5439817283923544709, guid: 71eedda0f74e6be41b63a595b27c8d7d, type: 3}
+  - {fileID: 4243102168550535779, guid: 71eedda0f74e6be41b63a595b27c8d7d, type: 3}
+  - {fileID: 2910501214924710615, guid: 71eedda0f74e6be41b63a595b27c8d7d, type: 3}
+  - {fileID: 788111582045055076, guid: 71eedda0f74e6be41b63a595b27c8d7d, type: 3}
+  - {fileID: 1177967375190584932, guid: 71eedda0f74e6be41b63a595b27c8d7d, type: 3}
+  - {fileID: 5242966060822681823, guid: 71eedda0f74e6be41b63a595b27c8d7d, type: 3}
+  - {fileID: 6164065543898353682, guid: 71eedda0f74e6be41b63a595b27c8d7d, type: 3}
+  - {fileID: 1145816985170013196, guid: 71eedda0f74e6be41b63a595b27c8d7d, type: 3}
+  - {fileID: -6430181402372953709, guid: 71eedda0f74e6be41b63a595b27c8d7d, type: 3}
+  - {fileID: 5938945473510439734, guid: 71eedda0f74e6be41b63a595b27c8d7d, type: 3}
+  - {fileID: 8057885551982911317, guid: 71eedda0f74e6be41b63a595b27c8d7d, type: 3}
+  - {fileID: 7056148001352038465, guid: 71eedda0f74e6be41b63a595b27c8d7d, type: 3}
+  - {fileID: -265754594352905110, guid: 71eedda0f74e6be41b63a595b27c8d7d, type: 3}
+  - {fileID: -3796500787613833030, guid: 71eedda0f74e6be41b63a595b27c8d7d, type: 3}
+  - {fileID: 1411782373287241914, guid: 71eedda0f74e6be41b63a595b27c8d7d, type: 3}
+  - {fileID: 3520115986299403659, guid: 71eedda0f74e6be41b63a595b27c8d7d, type: 3}
+  - {fileID: 7891488588014589566, guid: 71eedda0f74e6be41b63a595b27c8d7d, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Level Tiles 1_22
+  - Level Tiles 1_23
+  - Level Tiles 1_20
+  - Level Tiles 1_21
+  - Level Tiles 1_19
+  - Level Tiles 1_18
+  - Level Tiles 1_17
+  - Level Tiles 1_16
+  - Level Tiles 1_15
+  - Level Tiles 1_14
+  - Level Tiles 1_13
+  - Level Tiles 1_12
+  - Level Tiles 1_11
+  - Level Tiles 1_10
+  - Level Tiles 1_4
+  - Level Tiles 1_5
+  - Level Tiles 1_6
+  - Level Tiles 1_7
+  - Level Tiles 1_0
+  - Level Tiles 1_1
+  - Level Tiles 1_2
+  - Level Tiles 1_3
+  - Level Tiles 1_8
+  - Level Tiles 1_9
+  m_RenderDataMap: {}
+  m_Tag: New Sprite Atlas
+  m_IsVariant: 0
